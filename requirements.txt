@@ -1,2 +1,1 @@
 selenium~=4.9.1
-pytest~=7.3.1
